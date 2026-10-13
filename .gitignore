@@ -4,6 +4,9 @@
 node_modules/
 npm-debug.log
 yarn-error.log
+.expo/
+dist/
+.env
 
 # ---------------------------------------------------------------------------
 # Android Studio / Gradle / IntelliJ
